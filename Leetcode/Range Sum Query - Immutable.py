@@ -22,3 +22,4 @@ obj.sumRange(0,2)
 obj.sumRange(2,5)
 obj.sumRange(0,5)
 
+
